@@ -29,7 +29,7 @@
 	<br>
 	<br>
 	<h2>jstl c:choose</h2><br>
-	
+	 
 	<c:choose>	
 		<c:when test="${ param.color == 1 }">
 			<span style="color: red">빨강</span>
